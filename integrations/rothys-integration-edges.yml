@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/rothys/integrations
+- https://n8n.io/integrations/rothys/
+- https://composio.dev/toolkits/rothys
+- https://monid.ai/tools/rothys
+checked:
+- https://composio.dev/toolkits/rothys
+- https://monid.ai/tools/rothys
+- https://n8n.io/integrations/rothys/
+- https://zapier.com/apps/rothys/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
